@@ -1,0 +1,83 @@
+body {
+background-color: cyan;
+text-align: center;
+}
+.box-1 {
+    background-color: pink;
+text-align: left;
+    font-weight: bold;
+font-size: 30px;
+margin: 20px;
+border-style: double;
+border-color: red;
+margin: 20px;
+padding: 20px;
+border-left-width: 20px;
+border-left-style: solid;
+border-left-color: red;
+border-top-style: none;
+border-bottom-style: none;
+border-right-style: none;
+}
+.box-2{
+background-color: pink;
+margin: 55px;
+padding: 5px;
+border-left-style: solid;
+border-left-color: red;
+border-left-width: 15px;
+
+}
+a {
+color: red;
+}
+a:hover {
+color: blue;
+    font-family: sans-serif;
+}
+.box-3 {
+    font-size: 25px;
+background-color: pink;
+    margin: 50px;
+    padding: 100px;
+margin-left: 50px;
+border-style: solid;
+border-width: 10px;
+border-color: red;
+}
+.boxlist-1 {
+    font-size: 20px;
+text-align: left;
+font-weight: bold;
+background-color: pink;
+width: auto;
+float: left;
+line-height: 40px;
+border: solid;
+border-width: 10px;
+border-color: red;
+}
+.boxlist-2 {
+
+    line-height: 40px;
+font-size: 20px;
+font-weight: bold;
+float: right;
+border-width: 100px;
+background-color: pink;
+margin-right: 50px;
+border-width: 10px;
+border-style: solid;
+border-color: red;
+
+}
+
+.boxlist-3 { 
+    margin-top: 600px;
+    font-weight: bold;
+    background-color: pink;
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+    line-height: 30px;
+}
